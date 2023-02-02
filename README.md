@@ -21,7 +21,7 @@ Web3.js Solidity<br/>
 
 <h2>Exprience</h2>
 
-<h3>SOLSTICE</h3> &nbsp; (https://solsapp.com)<br/>
+<h3>SOLSTICE</h3>https://solsapp.com<br/><br/>
 <img src='https://user-images.githubusercontent.com/123397365/216347895-e15c9628-f012-49a8-961e-a19d95496df7.png' width='100px' height='100px'/>
 <br/>
 1. Web Application
