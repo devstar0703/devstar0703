@@ -1,9 +1,10 @@
 <h1>Senior Full Stack Engineer</h1>
 
 Phone : + 9142652104
+<br/>
 Mail : devstar0703@gmail.com
 
-- Summary
+<h3>Summary</h3>
 
 As a Full-Stack developer, specialized in MERN, MEVN, MEAN stack and blockchain
 technology over 8֡ years.
@@ -13,15 +14,15 @@ and remain open-minded.
 Overall, I am an experienced developer who has taken a leading role in the
 development of successful software product.
 
-- Skills
+<h3>Skills</h3>
 
-React.js Next.js Angular.js Vue.js 
-Express.js Django Go ASP.NET Core
-MySQL MongoDB PostgreSQL MS SQL
-React Native Flutter Ionic-React Ionic-Angular 
-Web3.js Solidity
+React.js Next.js Angular.js Vue.js<br/>
+Express.js Django Go ASP.NET Core<br/>
+MySQL MongoDB PostgreSQL MS SQL<br/>
+React Native Flutter Ionic-React Ionic-Angular <br/>
+Web3.js Solidity<br/>
 
-- Exprience
+<h3>Exprience</h3>
 
 SOLSTICE(https://solsapp.com)
 1. Web Application
