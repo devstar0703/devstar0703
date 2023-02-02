@@ -66,6 +66,7 @@ http/http module.
 <img src="https://user-images.githubusercontent.com/123397365/216348069-eefc6bad-0c8d-42ae-ab0e-40e11b9699e6.png" width='150px' height='100px' />
 <br/>
 1. Front-end
+
 - Configure webpack.config.
 - Multiple language platform using i18next library.
 - React authentication routing using @okta/okta-react library.
