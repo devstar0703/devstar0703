@@ -4,17 +4,14 @@ Phone : + 9142652104
 <br/>
 Mail : devstar0703@gmail.com
 
-<h3>Summary</h3>
+<h2>Summary</h2>
 
-As a Full-Stack developer, specialized in MERN, MEVN, MEAN stack and blockchain
-technology over 8֡ years.
-I have successfully launched many web and mobile apps.
-I am a self-motivated professional who likes to solve difficult problems, be creative,
-and remain open-minded.
-Overall, I am an experienced developer who has taken a leading role in the
-development of successful software product.
+As a Full-Stack developer, specialized in MERN, MEVN, MEAN stack and blockchain technology over 8֡ years.<br/>
+I have successfully launched many web and mobile apps.<br/>
+I am a self-motivated professional who likes to solve difficult problems, be creative, and remain open-minded.<br/>
+Overall, I am an experienced developer who has taken a leading role in the development of successful software product.<br/>
 
-<h3>Skills</h3>
+<h2>Skills</h2>
 
 React.js Next.js Angular.js Vue.js<br/>
 Express.js Django Go ASP.NET Core<br/>
@@ -22,9 +19,11 @@ MySQL MongoDB PostgreSQL MS SQL<br/>
 React Native Flutter Ionic-React Ionic-Angular <br/>
 Web3.js Solidity<br/>
 
-<h3>Exprience</h3>
+<h2>Exprience</h2>
 
-SOLSTICE(https://solsapp.com)
+<h3>SOLSTICE</h3> &nbsp; (https://solsapp.com)<br/>
+![solstice](https://user-images.githubusercontent.com/123397365/216347895-e15c9628-f012-49a8-961e-a19d95496df7.png)
+<br/>
 1. Web Application
 
 - Frontend project high quality structure.
@@ -63,7 +62,9 @@ http/http module.
 - Build test case using flutter-test module.
 - And implement the other some logic such as web application.
 
-Vinovest(https://vinovest.co, https://whiskeyvest.co)
+<h3>Vinovest</h3> &nbsp; (https://vinovest.co, https://whiskeyvest.co)<br/>
+![vinovest](https://user-images.githubusercontent.com/123397365/216348069-eefc6bad-0c8d-42ae-ab0e-40e11b9699e6.png)
+<br/>
 1. Front-end
 - Configure webpack.config.
 - Multiple language platform using i18next library.
@@ -92,7 +93,10 @@ styled-component and CSS(not plugin).
 - Email verification, Forgot Password, Change Password flow on Backend side.
 - Backend Testcase using Mocha.
 
-Tepe(https://tepe.com)
+<h3>Tepe</h3> &nbsp; (https://tepe.com)
+<br/>
+![tepe](https://user-images.githubusercontent.com/123397365/216348231-ad62ebd1-1b12-4623-b209-e311d768634d.png)
+<br/>
 1. Front-end
 
 - Dashboard page animation using framer-motion library.
@@ -114,7 +118,10 @@ Tepe(https://tepe.com)
 - ASP.NET Twilio api integration.
 - Project Hosting using DigitalOcean.
 
-Kamermans Holding(https://calahex.com, https://caladex.org)
+<h3>Kamermans Holding</h3> &nbsp; (https://calahex.com, https://caladex.org)
+<br/>
+![Uploading kamermans holding.png…]()
+<br/>
 1. CEFI
 
 - Crypto Exchange Page UI.
