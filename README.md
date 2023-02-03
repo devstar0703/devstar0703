@@ -1,6 +1,6 @@
 <h1>Senior Full Stack Engineer</h1>
 
-Phone : + 9142652104
+Phone : +1 9142652104
 <br/>
 Mail : devstar0703@gmail.com
 
