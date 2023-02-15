@@ -94,6 +94,29 @@ styled-component and CSS(not plugin).
 - Email verification, Forgot Password, Change Password flow on Backend side.
 - Backend Testcase using Mocha.
 
+<h3>Tepe</h3>
+<img src="https://user-images.githubusercontent.com/123397365/219121303-7c698a0d-932c-445b-9890-42bd983b6cfc.png" />
+<br />
+1. Front-end
+
+- Dashboard page animation using framer-motion library.
+- Svg image file dot control functions.
+- Control of local storage using react-use library.
+- Storage Context & Language Context using useContext hook.
+- Integration Redux using typescript.
+- Implement reducer using @reduxjs/toolkit library.
+- Implement action using useDispatch hook.
+- useImperativeHandler hook inside svg image file control component (Wireframe.tsx).
+- Frontend Project code structure and styling using Eslint Grammar.
+- Frontend Testcase using Enzyme.
+
+2. Back-end
+  
+- Build ASP.NET Core project using Entity framework.
+- Build Test Project using xUnit.
+- ASP.NET Twilio api integration.
+- Project Hosting using DigitalOcean.
+  
 <h3>Kamermans Holding</h3>https://calahex.com, https://caladex.org<br/><br/>
 <img src="https://user-images.githubusercontent.com/123397365/216350088-6fcd3e3e-47a4-48ff-adf3-08c6d991b9a5.png" width="100px" height="100px" />
 <br/>
