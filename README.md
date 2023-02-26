@@ -23,20 +23,21 @@ Web3.js Solidity<br/>
 <h3>SOLSTICE</h3>https://solsapp.com<br/>
 1. React + Firebase(GCP)<br/>
 - Built reusable code for future use and optimized web pages(Eslint).<br/>
-- User-friendly mobile web page. - Authentication workflow using firebase → google, reCaptcha, phone, email and password authentication. <br/>
-- Email & phone verification flow using firebase. <br/>
-- Restricted or Public link distributing flow in product page using Twilio, Email.js libraries.<br/>
-- Various chart of dashboard page using react-apexchart library.<br/>
-- Multi-Digital asset security UI using canvas, pdf-viewer and so on.<br/> 
-- Transaction data management using firebase Real-time database.<br/>
-- Some security firebase backend functions development using Express.js & deploy it on GCP.<br/>
-- [Editing photo] UI of Setting Page using only CSS3 and canvas(Not Plugin).<br/>
-- Created features to enhance the user experience while ensuring that the web design is optimized for smartphones.<br/>
-- Stripe payment infrastructure system using stripe 3rd party api.<br/>
-- Parsing CSV files, converting csv to json flow using json2csv and react-csv library in Customers page.<br/>
-- Jest Testcase.<br/>
-- Frontend project hosting using Godaddy.<br/>
-
+- User-friendly mobile web page.
+- Authentication workflow using firebase → google, reCaptcha, phone, email and password authentication.
+- Email & phone verification flow using firebase.
+- Restricted or Public link distributing flow in product page using Twilio, Email.js libraries.
+- Various chart of dashboard page using react-apexchart library.
+- Multi-Digital asset security UI using canvas, pdf-viewer and so on.
+- Transaction data management using firebase Real-time database.
+- Some security firebase backend functions development using Express.js & deploy it on GCP.
+- [Editing photo] UI of Setting Page using only CSS3 and canvas(Not Plugin).
+- Created features to enhance the user experience while ensuring that the web design is optimized for smartphones.
+- Stripe payment infrastructure system using stripe 3rd party api.
+- Parsing CSV files, converting csv to json flow using json2csv and react-csv library in Customers page.
+- Jest Testcase.
+- Frontend project hosting using Godaddy.
+<br/>
 **** Additional Work at Main Stack Outside on Blockchain Part.
 - Product creating workflow using IPFS.
 - Wallet connection part using @rainbow-me/rainbowkit library.
@@ -57,14 +58,12 @@ https://github.com/devstar0703/SOLSTICE-Web-app
 - Routing authentication using { Security, useOktaAuth }, { OktaAuth } from (@okta/okta-react & @okta/okta-auth-js) library.
 - Building self-contained, reusable, and testable modules and components.
 - Integration new sub-nav structure to old Reusable Sticky navbar component for new whiskeyvest.co site.
-- Blog creating page UI using { CKEditor } from '@ckeditor/ckeditor5-react' & ClassicEditor from '@ckeditor/ckeditor5-build-classic' and then customize
-UploadAdapterPlugin to store blog image inside Express backend storage.
-- Implement interview schedule flow using calendly API.
+- Blog creating page UI using { CKEditor } from '@ckeditor/ckeditor5-react' & ClassicEditor from '@ckeditor/ckeditor5-build-classic' and then customize UploadAdapterPlugin to store blog image inside Express backend storage.Implement interview schedule flow using calendly API.
 - Various animation effects & mobile responsive for new designed whiskeyvest.co.
-Landing page panel animation using CSS animation.
-Dashboard page slider component using styled-component and CSS(not plugin).
-Blog page pagination component using styled-component and CSS(not plugin).
-Animated Button, Dropdown, Select, Modal, Checkbox components using styled-component and CSS(not plugin).
+  . Landing page panel animation using CSS animation.
+  . Dashboard page slider component using styled-component and CSS(not plugin).
+  . Blog page pagination component using styled-component and CSS(not plugin).
+  . Animated Button, Dropdown, Select, Modal, Checkbox components using styled-component and CSS(not plugin).
 - Loading component inside suspense-fallback props in each router.
 - Redux workflow to interact with Express.js backend.
 - Beauty & Powerful code style(Eslint + Prettier).
