@@ -103,11 +103,11 @@ https://github.com/devstar0703/Vinovest
 - Multi-language platform using context hook + local storage.<br/>
 - Testcase of all components using Jest.<br/>
 <br/>
-2. Asp.NET Web API
-- Built ASP.NET Core Web API using Entity framework. 
-- Built Test Project using xUnit. 
-- ASP.NET Twilio api integration. 
-- Project Hosting on DigitalOcean.
+2. Asp.NET Web API<br/>
+- Built ASP.NET Core Web API using Entity framework. <br/>
+- Built Test Project using xUnit. <br/>
+- ASP.NET Twilio api integration. <br/>
+- Project Hosting on DigitalOcean.<br/>
 <br/>
 *** Github<br/>
 https://github.com/devstar0703/Tepe-React-Typescript<br/>
@@ -115,36 +115,36 @@ https://github.com/devstar0703/Tepe-ASP-NET-Backend
 
   
 <h3>Kamermans Holding</h3>
-1. CEFI ( React + Laravel + MySQL )
-
-- Crypto Exchange Page UI.
-- Low-latency, Bidirectional and Event-based communication using socket library.
-- TradingView widget UI.
-- Wallet Page UI.
-- Payment flow using NowPayment 3rd party API.
-- Animated common Card component using AOS library.
-- Multi-Language platform using React createContext, useContext Hook.
-- SignIn, SignUp, Profile Form UI.
-- Poloniex 3rd party API using axios library.
-- React Auth Routing using @okta/okta-react library.
-- Auth, Exchange, Payment API validators, routers, controllers.
-- Restful api related with crypto exchange, trading, order logic on Express.js backend side.
-- Project Hosting using DigitalOcean.
-
-2. DEFI ( React + Express.js + MongoDB )
-- Wallet connect UI using web3.js and web3Modal.
-- Staking Page UI.
-- Balance Page UI using web3.js.
-- High quality CRUD on admin page related with token using CKEditor, Pdfjs-Worker library.
-- ERC20 based token deposit and withdraw flow using web3.js.
-- Weighted average calculation logic for crypto price.
-- Crypto, User, Wallet, Order schemas and Relation mapping for data which is stored in MongoDB.
-- Staking end point and Payout auto check using CronJob library on backend side.
-- 3rd party API to get large data from Coingecko on backend side.
-- Frontend Testcase using Enzyme
-- Backend Project Testcase using Mocha.
-- Frontend and Backend project hosting using DigitalOcean.
-
+1. CEFI ( React + Laravel + MySQL )<br/>
+<br/>
+- Crypto Exchange Page UI.<br/>
+- Low-latency, Bidirectional and Event-based communication using socket library.<br/>
+- TradingView widget UI.<br/>
+- Wallet Page UI.<br/>
+- Payment flow using NowPayment 3rd party API.<br/>
+- Animated common Card component using AOS library.<br/>
+- Multi-Language platform using React createContext, useContext Hook.<br/>
+- SignIn, SignUp, Profile Form UI.<br/>
+- Poloniex 3rd party API using axios library.<br/>
+- React Auth Routing using @okta/okta-react library.<br/>
+- Auth, Exchange, Payment API validators, routers, controllers.<br/>
+- Restful api related with crypto exchange, trading, order logic on Express.js backend side.<br/>
+- Project Hosting using DigitalOcean.<br/>
+<br/>
+2. DEFI ( React + Express.js + MongoDB )<br/>
+- Wallet connect UI using web3.js and web3Modal.<br/>
+- Staking Page UI.<br/>
+- Balance Page UI using web3.js.<br/>
+- High quality CRUD on admin page related with token using CKEditor, Pdfjs-Worker library.<br/>
+- ERC20 based token deposit and withdraw flow using web3.js.<br/>
+- Weighted average calculation logic for crypto price.<br/>
+- Crypto, User, Wallet, Order schemas and Relation mapping for data which is stored in MongoDB.<br/>
+- Staking end point and Payout auto check using CronJob library on backend side.<br/>
+- 3rd party API to get large data from Coingecko on backend side.<br/>
+- Frontend Testcase using Enzyme.<br/>
+- Backend Project Testcase using Mocha.<br/>
+- Frontend and Backend project hosting using DigitalOcean.<br/>
+<br/>
 *** Online<br/>
 https://calahex.com<br/>
 https://caladex.org<br/>
