@@ -20,7 +20,7 @@ Web3.js Solidity<br/>
 
 <h2>Exprience</h2>
 
-<h3>SOLSTICE</h3><br/>
+<h3>SOLSTICE</h3>
 1. React + Firebase(GCP)<br/>
 - Built reusable code for future use and optimized web pages(Eslint).<br/>
 - User-friendly mobile web page.<br/>
@@ -51,40 +51,40 @@ https://solsapp.com
 *** Github<br/>
 https://github.com/devstar0703/SOLSTICE-Web-app
 
-<h3>Vinovest</h3><br/>
-1. React(TypeScript) + WebPack + Eslint
-- Update old webpack.config.
-- Multi-language platform using i18next library.
-- Routing authentication using { Security, useOktaAuth }, { OktaAuth } from (@okta/okta-react & @okta/okta-auth-js) library.
-- Building self-contained, reusable, and testable modules and components.
-- Integration new sub-nav structure to old Reusable Sticky navbar component for new whiskeyvest.co site.
-- Blog creating page UI using { CKEditor } from '@ckeditor/ckeditor5-react' & ClassicEditor from '@ckeditor/ckeditor5-build-classic' and then customize UploadAdapterPlugin to store blog image inside Express backend storage.Implement interview schedule flow using calendly API.
-- Various animation effects & mobile responsive for new designed whiskeyvest.co.
-  . Landing page panel animation using CSS animation.
-  . Dashboard page slider component using styled-component and CSS(not plugin).
-  . Blog page pagination component using styled-component and CSS(not plugin).
-  . Animated Button, Dropdown, Select, Modal, Checkbox components using styled-component and CSS(not plugin).
-- Loading component inside suspense-fallback props in each router.
-- Redux workflow to interact with Express.js backend.
-- Beauty & Powerful code style(Eslint + Prettier).
-- User-friendly mobile responsive with pixel perfect match.
-- Frontend Testcase using Mocha.
-- Frontend & Backend hosting using AWS.
-
-2. Express.js + Node.js + MongoDB + Stripe
-- Stripe Payment flow using stripe 3rd party api on backend side.
-- Set up helmet, cors, rate limiting middleware for security on backend.
-- Implemented JWT passport middleware.
-- Pagination functions for request about large wine blogs list.
-- Some mongoose schemas and high relationship mapping.
-- Upload image middleware for api to store blog images on backend storage.
-- Update notification api part using socket.io.
-- Email verification, Forgot password, Change password flow.
-
-*** Online
-https://vinovest.co/whiskeyvest
-
-*** Github
+<h3>Vinovest</h3>
+1. React(TypeScript) + WebPack + Eslint<br/>
+- Update old webpack.config.<br/>
+- Multi-language platform using i18next library.<br/>
+- Routing authentication using { Security, useOktaAuth }, { OktaAuth } from (@okta/okta-react & @okta/okta-auth-js) library.<br/>
+- Building self-contained, reusable, and testable modules and components.<br/>
+- Integration new sub-nav structure to old Reusable Sticky navbar component for new whiskeyvest.co site.<br/>
+- Blog creating page UI using { CKEditor } from '@ckeditor/ckeditor5-react' & ClassicEditor from '@ckeditor/ckeditor5-build-classic' and then customize UploadAdapterPlugin to store blog image inside Express backend storage.Implement interview schedule flow using calendly API.<br/>
+- Various animation effects & mobile responsive for new designed whiskeyvest.co.<br/>
+  . Landing page panel animation using CSS animation.<br/>
+  . Dashboard page slider component using styled-component and CSS(not plugin).<br/>
+  . Blog page pagination component using styled-component and CSS(not plugin).<br/>
+  . Animated Button, Dropdown, Select, Modal, Checkbox components using styled-component and CSS(not plugin).<br/>
+- Loading component inside suspense-fallback props in each router.<br/>
+- Redux workflow to interact with Express.js backend.<br/>
+- Beauty & Powerful code style(Eslint + Prettier).<br/>
+- User-friendly mobile responsive with pixel perfect match.<br/>
+- Frontend Testcase using Mocha.<br/>
+- Frontend & Backend hosting using AWS.<br/>
+<br/>
+2. Express.js + Node.js + MongoDB + Stripe<br/>
+- Stripe Payment flow using stripe 3rd party api on backend side.<br/>
+- Set up helmet, cors, rate limiting middleware for security on backend.<br/>
+- Implemented JWT passport middleware.<br/>
+- Pagination functions for request about large wine blogs list.<br/>
+- Some mongoose schemas and high relationship mapping.<br/>
+- Upload image middleware for api to store blog images on backend storage.<br/>
+- Update notification api part using socket.io.<br/>
+- Email verification, Forgot password, Change password flow.<br/>
+<br/>
+*** Online<br/>
+https://vinovest.co/whiskeyvest<br/>
+<br/>
+*** Github<br/>
 https://github.com/devstar0703/Vinovest
 
 
