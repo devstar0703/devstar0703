@@ -21,7 +21,7 @@ Web3.js Solidity<br/>
 <h2>Exprience</h2>
 
 <h3>SOLSTICE</h3>
-1. React + Firebase(GCP)<br/>
+1. React + Firebase(GCP)<br/><br/>
 - Built reusable code for future use and optimized web pages(Eslint).<br/>
 - User-friendly mobile web page.<br/>
 - Authentication workflow using firebase → google, reCaptcha, phone, email and password authentication.<br/>
@@ -52,7 +52,7 @@ https://solsapp.com
 https://github.com/devstar0703/SOLSTICE-Web-app
 
 <h3>Vinovest</h3>
-1. React(TypeScript) + WebPack + Eslint<br/>
+1. React(TypeScript) + WebPack + Eslint<br/><br/>
 - Update old webpack.config.<br/>
 - Multi-language platform using i18next library.<br/>
 - Routing authentication using { Security, useOktaAuth }, { OktaAuth } from (@okta/okta-react & @okta/okta-auth-js) library.<br/>
@@ -71,7 +71,7 @@ https://github.com/devstar0703/SOLSTICE-Web-app
 - Frontend Testcase using Mocha.<br/>
 - Frontend & Backend hosting using AWS.<br/>
 <br/>
-2. Express.js + Node.js + MongoDB + Stripe<br/>
+2. Express.js + Node.js + MongoDB + Stripe<br/><br/>
 - Stripe Payment flow using stripe 3rd party api on backend side.<br/>
 - Set up helmet, cors, rate limiting middleware for security on backend.<br/>
 - Implemented JWT passport middleware.<br/>
@@ -89,7 +89,7 @@ https://github.com/devstar0703/Vinovest
 
 
 <h3>Tepe</h3>
-1. React(TypeScript)<br/>
+1. React(TypeScript)<br/><br/>
 - Reusable & Optimized Components related with Dashboard page (framer-motion node module for animation) <br/>
 - Wireframe operation of 2D object(SVG image object). <br/>
 - Development of hook functions about to local storage(react-use, context) for selected products temp store.<br/>
@@ -103,7 +103,7 @@ https://github.com/devstar0703/Vinovest
 - Multi-language platform using context hook + local storage.<br/>
 - Testcase of all components using Jest.<br/>
 <br/>
-2. Asp.NET Web API<br/>
+2. Asp.NET Web API<br/><br/>
 - Built ASP.NET Core Web API using Entity framework. <br/>
 - Built Test Project using xUnit. <br/>
 - ASP.NET Twilio api integration. <br/>
@@ -131,7 +131,7 @@ https://github.com/devstar0703/Tepe-ASP-NET-Backend
 - Restful api related with crypto exchange, trading, order logic on Express.js backend side.<br/>
 - Project Hosting using DigitalOcean.<br/>
 <br/>
-2. DEFI ( React + Express.js + MongoDB )<br/>
+2. DEFI ( React + Express.js + MongoDB )<br/><br/>
 - Wallet connect UI using web3.js and web3Modal.<br/>
 - Staking Page UI.<br/>
 - Balance Page UI using web3.js.<br/>
