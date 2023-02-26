@@ -60,10 +60,10 @@ https://github.com/devstar0703/SOLSTICE-Web-app
 - Integration new sub-nav structure to old Reusable Sticky navbar component for new whiskeyvest.co site.<br/>
 - Blog creating page UI using { CKEditor } from '@ckeditor/ckeditor5-react' & ClassicEditor from '@ckeditor/ckeditor5-build-classic' and then customize UploadAdapterPlugin to store blog image inside Express backend storage.Implement interview schedule flow using calendly API.<br/>
 - Various animation effects & mobile responsive for new designed whiskeyvest.co.<br/>
-  . Landing page panel animation using CSS animation.<br/>
-  . Dashboard page slider component using styled-component and CSS(not plugin).<br/>
-  . Blog page pagination component using styled-component and CSS(not plugin).<br/>
-  . Animated Button, Dropdown, Select, Modal, Checkbox components using styled-component and CSS(not plugin).<br/>
+  &nbsp;&nbsp;&nbsp; . Landing page panel animation using CSS animation.<br/>
+  &nbsp;&nbsp;&nbsp; . Dashboard page slider component using styled-component and CSS(not plugin).<br/>
+  &nbsp;&nbsp;&nbsp; . Blog page pagination component using styled-component and CSS(not plugin).<br/>
+  &nbsp;&nbsp;&nbsp; . Animated Button, Dropdown, Select, Modal, Checkbox components using styled-component and CSS(not plugin).<br/>
 - Loading component inside suspense-fallback props in each router.<br/>
 - Redux workflow to interact with Express.js backend.<br/>
 - Beauty & Powerful code style(Eslint + Prettier).<br/>
@@ -88,8 +88,7 @@ https://vinovest.co/whiskeyvest<br/>
 https://github.com/devstar0703/Vinovest
 
 
-<h3>Tepe</h3>https://tepe.com<br/>
-
+<h3>Tepe</h3>
 1. React(TypeScript)
 - Reusable & Optimized Components related with Dashboard page (framer-motion node module for animation) 
 - Wireframe operation of 2D object(SVG image object). 
@@ -115,7 +114,7 @@ https://github.com/devstar0703/Tepe-React-Typescript
 https://github.com/devstar0703/Tepe-ASP-NET-Backend
 
   
-<h3>Kamermans Holding</h3>https://calahex.com, https://caladex.org<br/>
+<h3>Kamermans Holding</h3>
 1. CEFI ( React + Laravel + MySQL )
 
 - Crypto Exchange Page UI.
