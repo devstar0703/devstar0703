@@ -89,28 +89,28 @@ https://github.com/devstar0703/Vinovest
 
 
 <h3>Tepe</h3>
-1. React(TypeScript)
-- Reusable & Optimized Components related with Dashboard page (framer-motion node module for animation) 
-- Wireframe operation of 2D object(SVG image object). 
-- Development of hook functions about to local storage(react-use, context) for selected products temp store.
-- Loading effect of component before download bundle file using { lazy } from 'react'.
-- Mui various component customization using callback in styleOverrides.
-- Built reusable theme with color + dark mode using hook, Mui palette, typography.
-- Integration Typescript based Redux workflow.
-- Built beauty code with powerful code style using Eslint grammar. 
-- Patient schedule management page ui(@aldabil/react-scheduler + react-calendar-timeline).
-- Twilio backend API integration using axiosHelper.
-- Multi-language platform using context hook + local storage.
-- Testcase of all components using Jest.
-
+1. React(TypeScript)<br/>
+- Reusable & Optimized Components related with Dashboard page (framer-motion node module for animation) <br/>
+- Wireframe operation of 2D object(SVG image object). <br/>
+- Development of hook functions about to local storage(react-use, context) for selected products temp store.<br/>
+- Loading effect of component before download bundle file using { lazy } from 'react'.<br/>
+- Mui various component customization using callback in styleOverrides.<br/>
+- Built reusable theme with color + dark mode using hook, Mui palette, typography.<br/>
+- Integration Typescript based Redux workflow.<br/>
+- Built beauty code with powerful code style using Eslint grammar. <br/>
+- Patient schedule management page ui(@aldabil/react-scheduler + react-calendar-timeline).<br/>
+- Twilio backend API integration using axiosHelper.<br/>
+- Multi-language platform using context hook + local storage.<br/>
+- Testcase of all components using Jest.<br/>
+<br/>
 2. Asp.NET Web API
 - Built ASP.NET Core Web API using Entity framework. 
 - Built Test Project using xUnit. 
 - ASP.NET Twilio api integration. 
 - Project Hosting on DigitalOcean.
-
-*** Github
-https://github.com/devstar0703/Tepe-React-Typescript
+<br/>
+*** Github<br/>
+https://github.com/devstar0703/Tepe-React-Typescript<br/>
 https://github.com/devstar0703/Tepe-ASP-NET-Backend
 
   
@@ -145,14 +145,14 @@ https://github.com/devstar0703/Tepe-ASP-NET-Backend
 - Backend Project Testcase using Mocha.
 - Frontend and Backend project hosting using DigitalOcean.
 
-*** Online
-https://calahex.com
-https://caladex.org
-
-*** Github
-https://github.com/devstar0703/Kamermans-Holding-Calahex.com
-https://github.com/devstar0703/Kamermans-Holding-Caladex.org
-https://github.com/devstar0703/Kamermans-Holding-CA1.IO
-https://github.com/devstar0703/Kamermans-Holding-Calahex.io
-https://github.com/devstar0703/Kamermans-Holding-Caladex.io
+*** Online<br/>
+https://calahex.com<br/>
+https://caladex.org<br/>
+<br/>
+*** Github<br/>
+https://github.com/devstar0703/Kamermans-Holding-Calahex.com<br/>
+https://github.com/devstar0703/Kamermans-Holding-Caladex.org<br/>
+https://github.com/devstar0703/Kamermans-Holding-CA1.IO<br/>
+https://github.com/devstar0703/Kamermans-Holding-Calahex.io<br/>
+https://github.com/devstar0703/Kamermans-Holding-Caladex.io<br/>
 https://github.com/devstar0703/Kamermans-Holding-Caladex-Contract
