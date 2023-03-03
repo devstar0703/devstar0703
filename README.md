@@ -9,16 +9,50 @@ Mail : devstar0703@gmail.com
 8+ years experienced React Developer with hands-on experience in identifying web-based user interactions along with designing & implementing highly-responsive user interface components by deploying React concepts.<nr/>
 Proficient in translating designs & wireframes into high-quality code, and writing application interface code via Javascript and ReactJS workflows.<br/>
 Adept at monitoring & maintaining frontend performance and troubleshooting & debugging the same to bolster overall performance.
+And also I have rich experience with several backend languages and frameworks such as Express.js, Spring Boost, Asp.NET Core and so on.
 
 <h2>Skills</h2>
 
 React.js Next.js Angular.js Vue.js<br/>
-Express.js Django Go ASP.NET Core<br/>
+Express.js Django Spring Boost ASP.NET Core<br/>
 MySQL MongoDB PostgreSQL MS SQL<br/>
 React Native Flutter Ionic-React Ionic-Angular <br/>
 Web3.js Solidity<br/>
 
 <h2>Exprience</h2>
+
+<h3>TANKED GIL SCHOOLIES</h3><br/>
+<br/>
+1. React+TypeScript + Web3<br/>
+- Built React(TypeScript + Eslint) based initial project and main workflow.<br/>
+- Dashboard page NFT viewer using Swiper.js.<br/>
+- Implement cart & purchase flow with paypal payment system.<br/>
+- Wallet connection part using rainbow-me/rainbowkit.<br/>
+- NFT minting workflow using web3 & ethers.<br/>
+- Host front-end project on nft.tankedgilschoolies.com, sub-domain under tankedgilschoolies.com on Godaddy.<br/>
+<br/>
+2. Express.js + MySQL<br/>
+- Simple authentication flow for initial workflow.<br/>
+- Host back-end on nft.io.takedgilschoolies.com, sub-domain under tankedgilschoolies.com on Godaddy.<br/>
+<br/>
+3. NFT(ERC1155) + Marketplace smart contract + Solidity<br/>
+- Rebuilt smart contract project using Truffle.<br/>
+- Coding APTOS NFT, Marketplace using solidity and deploy 2 contracts on AVAX Test network.<br/>
+- Testcase about APTOSNFT.sol & APTOSMarketplace.sol.<br/>
+<br/>
+*** Online
+https://nft.tankedgilschoolies.com<br/>
+<br/>
+*** Github
+https://github.com/devstar0703/APTOS-PROJECT<br/>
+https://github.com/devstar0703/APTOS-NFT-Contract<br/>
+https://github.com/devstar0703/APTOS-Backend-Express<br/>
+<br/>
+*** Online<br/>
+https://solsapp.com
+<br/><br/>
+*** Github<br/>
+https://github.com/devstar0703/SOLSTICE-Web-app
 
 <h3>SOLSTICE</h3>
 1. React + Firebase(GCP)<br/><br/>
