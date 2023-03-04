@@ -1,4 +1,4 @@
-<h1>Sr. React (TypeScript) Full Stack</h1>
+<h1>Senior Full Stack Engineer</h1>
 
 Phone : +1 9142652104
 <br/>
