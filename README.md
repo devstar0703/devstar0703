@@ -4,12 +4,23 @@ Phone : +1 9142652104
 <br/>
 Mail : devstar0703@gmail.com
 
-<h2>Summary</h2>
-
-8+ years experienced React Developer with hands-on experience in identifying web-based user interactions along with designing & implementing highly-responsive user interface components by deploying React concepts.<nr/>
-Proficient in translating designs & wireframes into high-quality code, and writing application interface code via Javascript and ReactJS workflows.<br/>
-Adept at monitoring & maintaining frontend performance and troubleshooting & debugging the same to bolster overall performance.
-And also I have rich experience with several backend languages and frameworks such as Express.js, Spring Boost, Asp.NET Core and so on.
+<h2>Summary</h2><br/>
+<br/>
+- Experience with Architecture, Design and Development of Object Oriented Software Systems and building complex, high performance, scalable and easily maintainable solutions for N - tier, Web, and Distributed applications.<br/>
+- 8+ years experienced React Developer with hands-on experience in identifying web-based user interactions along with designing & implementing highly-responsive user interface components by deploying React concepts.<br/>
+- Proficient in translating designs & wireframes into high-quality code, and writing application interface code via JavaScript and ReactJS workflows.<br/>
+- Comfortable working with MEAN, MERN stack.<br/>
+- Adept at monitoring & maintaining frontend performance and troubleshooting & debugging the same to bolster overall performance.<br/>
+- Experience in developing backend projects with various frameworks Express.js, Java Spring Boot, Asp.NET Core Web API.<br/>
+- Experience in database programming using MySQL, PostgreSQL 9.3 and MongoDB.<br/>
+- Experience in various DevOps tools such as Github, Gitlab.<br/>
+- Experience with web hosting with AWS, Godaddy, DigitalOcean.<br/>
+- Experience with team task and ticket management system with Trello, Github and so on.<br/>
+- Extensive experience in IDE and debugging tools like Visual Studio 2022, Visual Studio Code, Eclipse and Rational Application Developer.<br/>
+- Developed crypto rest services using NodeJS & Web3JS and integrated services with HSM(Hardware Security Module).<br/>
+- Worked on many Operation system environments including Windows, Linux, Ubuntu.<br/>
+- High adaptable in quickly changing technical environments with very strong organizational and analytical skills.<br/>
+- Experience in working with team members and high communication skill.<br/>
 
 <h2>Skills</h2>
 
