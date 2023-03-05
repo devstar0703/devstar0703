@@ -31,8 +31,7 @@ Web3.js Solidity<br/>
 
 <h2>Exprience</h2>
 
-<h3>TANKED GIL SCHOOLIES</h3><br/>
-<br/>
+<h3>TANKED GIL SCHOOLIES</h3>
 1. React+TypeScript + Web3<br/>
 - Built React(TypeScript + Eslint) based initial project and main workflow.<br/>
 - Dashboard page NFT viewer using Swiper.js.<br/>
