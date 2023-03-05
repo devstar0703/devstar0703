@@ -160,35 +160,57 @@ https://github.com/devstar0703/Tepe-ASP-NET-Backend
 
   
 <h3>Kamermans Holding</h3>
-1. CEFI ( React + Laravel + MySQL )<br/>
+1. DEFI ( React + Express.js + MongoDB )<br/>
 <br/>
-- Crypto Exchange Page UI.<br/>
-- Low-latency, Bidirectional and Event-based communication using socket library.<br/>
-- TradingView widget UI.<br/>
-- Wallet Page UI.<br/>
-- Payment flow using NowPayment 3rd party API.<br/>
-- Animated common Card component using AOS library.<br/>
-- Multi-Language platform using React createContext, useContext Hook.<br/>
-- SignIn, SignUp, Profile Form UI.<br/>
-- Poloniex 3rd party API using axios library.<br/>
-- React Auth Routing using @okta/okta-react library.<br/>
-- Auth, Exchange, Payment API validators, routers, controllers.<br/>
-- Restful api related with crypto exchange, trading, order logic on Express.js backend side.<br/>
-- Project Hosting using DigitalOcean.<br/>
+React.js<br/>
+- Designed responsive web pages using media queries and SCSS.<br/>
+- Working with React router for developing SPAs.<br/>
+- Experienced in developing React components.<br/>
+- Working experience with TypeScript new features block scope, type restrictions, decorators, arrow functions, classes, interfaces, modules(import and exports).<br/>
+- Used axios with React.js for making AJAX Calls.<br/>
+-  Wallet connection part using web3Modal.<br/>
+-  Staking, Balance page ui with mobile responsive(converting backend json object data to 2 dimensional array using Object.entries).<br/>
+-  Implemented web3 part to get user wallet information data(web3.js).<br/>
+-  Some CRUD on admin page related with token using CKEditor, Pdfjs-Worker library.<br/>
+-  ERC20 based token deposit and withdraw flow using web3.js.<br/>
+-  3rd party API to get large data from Coingecko.<br/>
+-  Involved Jest test and debugging.<br/>
 <br/>
-2. DEFI ( React + Express.js + MongoDB )<br/><br/>
-- Wallet connect UI using web3.js and web3Modal.<br/>
-- Staking Page UI.<br/>
-- Balance Page UI using web3.js.<br/>
-- High quality CRUD on admin page related with token using CKEditor, Pdfjs-Worker library.<br/>
-- ERC20 based token deposit and withdraw flow using web3.js.<br/>
-- Weighted average calculation logic for crypto price.<br/>
-- Crypto, User, Wallet, Order schemas and Relation mapping for data which is stored in MongoDB.<br/>
-- Staking end point and Payout auto check using CronJob library on backend side.<br/>
-- 3rd party API to get large data from Coingecko on backend side.<br/>
-- Frontend Testcase using Enzyme.<br/>
-- Backend Project Testcase using Mocha.<br/>
-- Frontend and Backend project hosting using DigitalOcean.<br/>
+Express.js<br/>
+-  Implemented Eslint code style for maintainable project.<br/>
+-  Implemented high quality folder structure.<br/>
+-  JWT authentication workflow using passport-jwt.<br/>
+-  Implemented validators about all api endpoint(yup).<br/>
+-  Worked with Crypto, User, Wallet, Order schemas and relation mapping for data  to interact with MongoDB.<br/>
+-  Weighted average calculation logic for crypto price.<br/>
+-  Restful api related with crypto exchange, trading, order workflow.<br/>
+-  Order, trading data stream using web socket(socket.io).<br/>
+-  Staking end point and Payout auto check using CronJob.<br/>
+-  Project Hosting using DigitalOcean.<br/>
+<br/>
+2. CEFI ( React + Spring Boot + MySQL )<br/>
+<br/>
+ React.js<br/>
+-  Optimized and intuitive Crypto Exchange Page UI.<br/>
+-  Low-latency, bidirectional and event-based communication using socket(socket.io-client).<br/>
+-  Trading view widget using react-apexchart library.<br/>
+-  Simple animation on dashboard page(aos).<br/>
+-  Payment flow using NowPayment 3rd party API.<br/>
+-  User friendly web page and mobile responsive.<br/>
+-  Multi-Language platform using createContext, useContext Hook.<br/>
+-  User authentication workflow including 2FA authentication logic such as sign up, sign in, forgot password and so on.<br/>
+-  Integrated poloniex 3rd party api using axiosHelper.<br/>
+-  Implemented routers authentication using @okta/okta-react with SSL certification logic.<br/>
+<br/>
+Spring Boot <br/>
+- All the functionality is implemented using Spring Boot and Hibernate ORM.<br/>
+- Implemented Java EE components using Spring MVC, Spring IOC, Spring transactions and Spring security modules.<br/>
+- Used Micro service architecture with Spring Boot based services interacting through a combination of REST.<br/>
+- Involved in spring programmatic transaction management using AOP and using Spring Batch.<br/>
+- Used spring core to define beans for services, entity services and corresponding depended services.<br/>
+- Used spring framework for integrating the MVC components with business services.<br/>
+- Involved in JUnit Testing, debugging, and bug fixing.<br/>
+- Deployed applications on Apache Tomcat Server.<br/>
 <br/>
 *** Online<br/>
 https://calahex.com<br/>
