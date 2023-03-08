@@ -1,8 +1,6 @@
 <h1>Senior Full Stack Engineer</h1>
 
-Phone : +1 9142652104
-<br/>
-Mail : devstar0703@gmail.com
+Gmail : devstar0703@gmail.com
 
 <h2>Summary</h2>
 - Experience with Architecture, Design and Development of Object Oriented Software Systems and building complex, high performance, scalable and easily maintainable solutions for N - tier, Web, and Distributed applications.<br/>
@@ -41,7 +39,12 @@ Web3.js Solidity<br/>
 - Host front-end project on nft.tankedgilschoolies.com, sub-domain under tankedgilschoolies.com on Godaddy.<br/>
 <br/>
 2. Express.js + MySQL<br/>
-- Simple authentication flow for initial workflow.<br/>
+- Authentication flow for initial workflow.<br/>
+- Implemented Jwt-passport authentication.<br/>
+- web3 api using hook function from wagmi library.<br/>
+- Integrated smart contract interaction part using web3, ethers.<br/>
+- Integrated sucrase compiler for developing import/export grammer.<br/>
+- Generated wallet automatically using cryptojs and node.js.<br/>
 - Host back-end on nft.io.takedgilschoolies.com, sub-domain under tankedgilschoolies.com on Godaddy.<br/>
 <br/>
 3. NFT(ERC1155) + Marketplace smart contract + Solidity<br/>
@@ -65,6 +68,8 @@ https://github.com/devstar0703/SOLSTICE-Web-app
 
 <h3>SOLSTICE</h3>
 1. React + Firebase(GCP)<br/><br/>
+- Followed SaaS development process all development step.<br/>
+- Define user types of platform and design user story.<br/>
 - Built reusable code for future use and optimized web pages(Eslint).<br/>
 - User-friendly mobile web page.<br/>
 - Authentication workflow using firebase → google, reCaptcha, phone, email and password authentication.<br/>
@@ -133,6 +138,7 @@ https://github.com/devstar0703/Vinovest
 
 <h3>Tepe</h3>
 1. React(TypeScript)<br/><br/>
+- Listed of terms and metaphors related with operation of Wireframe. <br/>
 - Reusable & Optimized Components related with Dashboard page (framer-motion node module for animation) <br/>
 - Wireframe operation of 2D object(SVG image object). <br/>
 - Development of hook functions about to local storage(react-use, context) for selected products temp store.<br/>
@@ -154,9 +160,42 @@ https://github.com/devstar0703/Vinovest
 <br/>
 *** Github<br/>
 https://github.com/devstar0703/Tepe-React-Typescript<br/>
-https://github.com/devstar0703/Tepe-ASP-NET-Backend
+https://github.com/devstar0703/Tepe-ASP-NET-Backend<br/>
 
-  
+<h3>Poster News</h3>
+1. Next.js + TypeScript + Tailwind CSS<br/>
+- Define user types of platform and design user story.<br/>
+- Listed of terms and metaphors associated with the product.<br/>
+- Followed SaaS development process in each step of development from requirement analysis to maintaining.<br/>
+- Built Next.js project with Eslint + Prettier package and Implemented standard protocol.<br/>
+- Developed reusable digital uploading function using Javascript yield & generator function and json object.<br/>
+- Developed maintainable and reusable layout and component.<br/>
+- Implemented various hook of react-query such as useInfiniteQuery, useQuery for getting paginated blog data from backend.<br/>
+- Developed blog editor component using quill module & html-to-formatted-text.<br/>
+- File uploading mutiple synchronous loading effect using react hook functions & axiosHelper second callback function.<br/>
+- Implemented loading effect while interacting with backend using useMutation hook of react-query.<br/>
+- Implemented react workflow, redux, slice using @reduxjs/toolkit, redux-persist, redux-thunk.<br/>
+- Customized tailwind css using scss grammar.<br/>
+- All data types and interfaces architecture and define. <br/>
+<br/>
+2. Express.js + TypeScript + GCP<br/>
+- Implemented Docker & TypeScript on express restful api.<br/>
+- Developed mongoose model and query using TypeScript.<br/>
+- Integrated middleware for uploading digital asset to GCP using multer-google-storage.<br/>
+- Generated user avatar and name using randpix color schema & unique-username-generator and distributing flow.<br/>
+- Integrated tsc compiler.<br/>
+- SSL verification workflow using RSA & AES algorithm and cryptojs module.<br/>
+- Implemented cronjob real time tracking for calculating total weighted downvotes about all posts.<br/>
+- Design relation mapping between post and reply & comment.<br/>
+- Implemented web socket using socket.io package.<br/>
+<br/>
+*** Online<br/>
+https://poc.here.news/<br/>
+<br/>
+*** Github<br/>
+https://github.com/devstar0703/poster-news-frontend<br/>
+https://github.com/devstar0703/poster-news-backend<br/>
+
 <h3>Kamermans Holding</h3>
 1. DEFI ( React + Express.js + MongoDB )<br/>
 <br/>
